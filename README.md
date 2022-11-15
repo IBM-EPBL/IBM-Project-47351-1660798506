@@ -1,4 +1,4 @@
-# IBM-Project-47351-1660798506
+IBM-Project-47351-1660798506
 Domain         : Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
 
@@ -67,5 +67,3 @@ B. Ordinal features (Variable having relative ordering or sorting between the va
 C. Continuous features (Variable taking values between any two points or between the minimum or maximum values in the feature column): age, blood_pressure, serum_cholestoral, max_heart_rate, ST_depression
 
 The main goal is to predict heart disease occurrence with the highest accuracy. In order to achieve this, several classification algorithms are tested.
-
-1.LOGISTIC REGRESSION 2.NAIVE BAYES 3.DECISION TREE 4.SVC
